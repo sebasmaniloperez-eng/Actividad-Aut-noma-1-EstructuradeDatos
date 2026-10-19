@@ -1,1 +1,2 @@
-Este programa fue creado para la Actividad Autónoma 1 de Estructura de Datos es un programa muy pequeño y sencillo. Usé Una Lista para poder agregar tres productos y luego agregar un cuarto producto.
+Este programa fue creado para la Actividad Autónoma 1 de Estructura de Datos es un programa muy pequeño y sencillo. Usé una Lista para poder agregar tres productos y luego agregar un cuarto producto. Esto en el lenguaje de python. En el lenguaje de C++ se uso un vector para que así cumpla la mmisma lógica de programación ya que si se usa lista en C++ correspondería a una lista enlazada y ya no sería la misma lógica de programación que en python. Además que son programas simples por eso se usa una lista en python y un vector en C++, corresponden a un arreglo dinámico. 
+
